@@ -1,0 +1,375 @@
+[07:42:45] [connected at Sat Apr  2 07:42:45 2011]
+[07:43:04] [I have joined #acemonstertoys]
+[07:43:48] <SeanIAm> sweet!
+[07:51:19] <davr> LOLShieldBot: print KILL ALL HUMANS
+[07:51:19] <LOLShieldBot> davr: that's scrolling now. I hope it wasn't naughty :)
+[07:51:47] * SeanIAm gets a laser beam to the temple
+[08:44:38] [disconnected at Sat Apr  2 08:44:38 2011]
+[07:07:13] [connected at Sun Apr  3 07:07:13 2011]
+[07:07:32] [I have joined #acemonstertoys]
+[10:37:05] [disconnected at Sun Apr  3 10:37:05 2011]
+[08:13:44] [connected at Wed Apr  6 08:13:44 2011]
+[08:13:44] [disconnected at Wed Apr  6 08:13:44 2011]
+[08:13:44] [connected at Wed Apr  6 08:13:44 2011]
+[08:14:01] [I have joined #acemonstertoys]
+[08:17:31] <SeanIAm> testing
+[08:17:45] <SeanIAm> Test Test Test
+[09:44:54] <robbiet480> morning
+[09:50:52] <ChrisCook> How did the MakeSF talk go?
+[09:59:04] <robbiet480> ChrisCook: very well
+[10:01:59] <ChrisCook> ..and..?
+[10:02:18] <davr> how many ppl were there? and how many you think will come to us?
+[10:02:43] <ChrisCook> davr: Ha! Saw you last night at TechShop
+[10:03:23] <davr> ChrisCook: i don't know what they are thinking, but now i am approved to use the tormach cnc to mill objects out of solid metal
+[10:04:12] <ChrisCook> davr: likewise I am now gifted with the abillity to cut solid objects… WITH LIGHT!
+[10:05:05] * davr just placed an order for a block of aluminum and a couple sheets of acrylic
+[10:05:06] <antifuchs> whereas we regular folk are only able to cut light with solid objects.
+[10:05:10] <antifuchs> (or refract, sometimes)
+[10:05:12] <robbiet480> ChrisCook: davr 30 or so, a bunch
+[10:08:50] <ChrisCook> davr: you find a good price on the acrylic?
+[10:11:24] <robbiet480> ChrisCook: can i come over at like 1130 and take you to lunch at bakesale betty
+[10:11:27] <robbiet480> :p
+[10:12:19] <ChrisCook> robbiet480: Hah.. sure.
+[10:12:27] <robbiet480> jajajajajajajajajajajajajajajajajajaja
+[10:12:34] <robbiet480> antifuchs: you can also join us for lunch!
+[10:12:42] <antifuchs> ooooh
+[10:12:44] <antifuchs> yay
+[10:12:52] <robbiet480> or i guess pandora tiem
+[10:12:55] <robbiet480> if ChrisCook is ok with that
+[10:13:06] <robbiet480> i just want to run up and grab swag and run!
+[10:13:07] <ChrisCook> fine by me
+[10:13:29] <robbiet480> (antifuchs: he works at pandora, im going to grab swag, its one block from you and me)
+[10:13:53] <antifuchs> whee
+[10:14:21] <robbiet480> ChrisCook: gief me number so i can textually message you later
+[10:14:57] <ChrisCook> 5104992813
+[10:15:08] <robbiet480> excellent
+[10:15:13] <davr> ChrisCook: i just bought a couple 12"x12" sheets from onlinemetals.com, since i was already buying aluminum from them, and it didn't cost too much ($2.50 to $10 or so depending on thickness)
+[10:15:18] <robbiet480> antifuchs: meet at my place at 1125, walk over, then lunching?
+[10:15:23] <davr> metal itself is expensive though
+[10:15:28] <antifuchs> sounds good
+[10:20:27] <albillings> Greetings, programs
+[10:35:24] <SuperQ> http://howfuckedismuni.com/
+[10:35:25] <ToyBot> [Link Info] title: How Fucked Is Muni?
+[10:36:07] <antifuchs> "YES"
+[10:36:08] <antifuchs> (-:
+[10:44:40] <albillings> quiet here
+[10:44:54] <albillings> davr: you want bill pay? If so, I need you to email me your address
+[10:51:24] <robbiet480> davr: get the truck, someone just called asking for a tow
+[10:51:27] <robbiet480> its an emergency they say
+[10:53:30] <albillings> heh
+[10:53:45] <albillings> are we saving those?
+[10:58:11] <robbiet480> albillings: yes
+[10:58:18] <robbiet480> for posterity
+[10:58:20] <albillings> excellent
+[11:00:28] <robbiet480> antifuchs: see you at 1125
+[11:04:57] <antifuchs> right (:
+[11:15:39] <robbiet480> antifuchs: 10 minutes!
+[11:17:16] <antifuchs> I know (-:
+[11:17:34] <antifuchs> ok, leaving now... should hit the ATM before we swarm out
+[11:17:44] <antifuchs> I'll be at your place at the appointed time (:
+[11:20:33] <robbiet480> antifuchs: 10-4
+[12:04:06] <davr> albillings: i swear i sent you that already
+[12:04:21] <albillings> Probably
+[12:04:22] <albillings> :-)
+[12:04:32] <davr> email with subject "Time to put in money for laser"
+[12:05:11] <davr> mike also asked me a second time for my address, so you're not alone
+[12:06:13] <albillings> kk
+[12:19:41] <SeanIAm> sean smells
+[12:19:58] <SeanIAm> Frik Frak Fuk!
+[12:25:55] <SeanIAm> Hola
+[13:17:22] <JMunakra> do we still need that 4x8 table? someone is offering one in albany
+[13:17:33] <romanian_SNA> yeah we do
+[13:17:38] <romanian_SNA> shopbot table?
+[13:18:23] <JMunakra> http://sfbay.craigslist.org/eby/tls/2303255934.html
+[13:18:24] <ToyBot> [Link Info] title: Woodworking Shop
+[13:18:34] <JMunakra> i dropped him a mail asking about price
+[13:27:18] <romanian_SNA> cool
+[14:23:10] <drgone> hi albillings 
+[14:23:22] <albillings> drgone: hi
+[14:23:36] <drgone> so your molds from the other night turned out worse.
+[14:23:40] <drgone> i made an error in judgement
+[14:23:48] <drgone> figured debubbling before pouring would help
+[14:23:50] <drgone> it didnt
+[14:23:58] <albillings> ack
+[14:24:01] <drgone> yse
+[14:24:17] <drgone> so i've got aimee doing a repour
+[14:24:23] <albillings> Okey dokey
+[14:24:30] <albillings> I'm not terribly concerned about timing
+[14:24:35] <albillings> I just wanted to check on things
+[14:24:50] <drgone> yeah
+[14:25:12] <drgone> this whole endeavor has been a learning experience
+[14:25:15] <albillings> :-)
+[14:25:17] <albillings> I bet
+[14:25:35] <drgone> it is a good thing
+[14:25:44] <drgone> but it eats up huge chunks of time and brain
+[14:25:59] <albillings> Have many people gotten mold sets?
+[14:26:45] <drgone> not a lot
+[14:26:49] <drgone> mostly people get parts
+[14:27:09] <drgone> i actually thought more people would get molds for their hackerspaces
+[14:27:16] <albillings> Yeah, I would think so
+[14:27:20] <drgone> there's a big opportunity there for workshops and stuff
+[14:27:22] <albillings> we plan on making a few repraps
+[14:27:30] <albillings> and give away printed parts
+[14:27:42] <albillings> of course, we have, between us, four or five cupcakes
+[14:27:48] <albillings> (now orphaned)
+[14:28:39] <albillings> I'm hoping to build a bit of a support community for cupcake owners on openfab.me as well.
+[14:46:40] <drgone> yeah. we have a few cupcakes too
+[14:46:51] <drgone> been upgrading them to have wade extruders
+[14:47:00] <drgone> since the mk3/mk4 ones kind of suck.
+[14:47:11] jenk_ is now known as wooster
+[14:48:07] <albillings> drgone: I have a mk6 extruder
+[14:48:20] <albillings> I just bought a new makergear hybrid for the upcoming reprap
+[14:48:31] <drgone> cool
+[14:48:38] <albillings> 1.75mm plastic, ABS or PLA, .5, .4, .25 nozzles
+[14:48:49] <albillings> trying to find a f'ing RAMPS board is an act of God though
+[14:48:54] <davr> makerbot is doing bigger nozzles now
+[14:49:06] <albillings> I'm not buying more makerbot stuff
+[14:49:10] <davr> what's a RAMPS board?
+[14:49:11] <albillings> they burned the cupcake community
+[14:49:26] <albillings> http://forums.reprap.org/list.php?219
+[14:49:34] <ToyBot> [Link Info] title: RepRap Forums :: RAMPS Electronics
+[14:49:48] <albillings> http://reprap.org/wiki/RAMPS
+[14:49:56] <ToyBot> [Link Info] title: Arduino Mega Pololu Shield - RepRapWiki
+[14:50:22] <albillings> that said, drgone, if they have smaller nozzles for the mk6, I may get one since I already have the new plastruder there
+[14:51:39] <drgone> i think we're going to start making our own nozzle/hot end
+[14:51:52] <drgone> we've already done nozzles to .35mm
+[14:52:04] <drgone> and getting away from nichrome is key
+[14:54:04] <drgone> i'm not sure if they actually *burned* the cupcake community
+[14:54:12] <drgone> they just stopped making it
+[14:54:53] <davr> albillings: have you looked at these guys? http://www.reprapstores.com/catalog/electronics
+[14:54:55] <ToyBot> [Link Info] title: Electronics | RepRap Stores
+[14:55:04] <albillings> yep
+[14:55:17] <albillings> do you see RAMPS there, davr? :-)
+[14:55:29] <davr> are you 100% set on using RAMPS?
+[14:55:47] <albillings> yes
+[14:55:54] <davr> these guys basically made their own version
+[14:56:02] <albillings> Already have ALL of the components for electronics except the assembled RAMPS board
+[14:56:13] <davr> doh
+[14:56:38] <albillings> ultimaker will have them again in a few days
+[14:56:43] <drgone> oh. that's a techzone right?
+[14:56:50] <drgone> techzone is kind of funky
+[14:56:56] <drgone> floating ground issues
+[14:57:11] <antifuchs> drgone: whenever somebody changes their product dev cycle, there's hyperbole (:
+[14:57:31] <drgone> well
+[14:57:35] <drgone> we have exp. with it
+[14:57:47] <drgone> the UW got some of their boards when they came out
+[14:57:56] <drgone> so did a couple other locals
+[14:58:05] <drgone> they were problematic
+[14:58:43] <drgone> possible it was just that first run, but they were fairly sketch
+[15:00:18] <albillings> I had to get reprap parts from something like five providers (not counting my megaduino and the upcoming RAMPS purchase).
+[15:02:44] <drgone> yeah. it is pretty ridiculous, but it is an involved project.
+[15:02:53] <drgone> and nobody believes in making money
+[15:03:00] <drgone> so nobody can actually have everything
+[15:04:47] <antifuchs> everybody believes in money, but nobody wants to go the makerbot route of making a company and doing hard work for what is essentially a hobbyist machine at the moment (:
+[15:04:47] <ToyBot> yay makerbots
+[15:05:09] <antifuchs> and sourcing that shit is hard work
+[15:06:11] <drgone> i dunno. i have been hanging out with reprap people for a while, and although everyone wants to make kits, none of them want to charge more than it costs to make them.
+[15:06:40] <drgone> selling printed parts at $100 for example
+[15:06:50] <antifuchs> yeah. valuing your time at 0 is a great way to run out of money quickly (:
+[15:06:53] <davr> people that want to make money selling reprap kits == makerbot
+[15:07:02] <drgone> right.
+[15:07:04] <antifuchs> davr: tbf, there are others
+[15:07:12] <drgone> and everyone hates them because they made 3d printing popular.
+[15:07:16] <antifuchs> makerbot sell repstrap kits, too (:
+[15:07:34] <davr> those techzone guys have a full kit
+[15:07:39] <antifuchs> drgone: but nobody wants to one-up them ((:
+[15:07:50] <antifuchs> davr: also, some reprap distributors in the uk
+[15:07:51] <davr> ultimaker has a full kit
+[15:07:59] <drgone> ultimaker isn't shipping yet
+[15:08:01] <antifuchs> but they don't really take off
+[15:08:06] <antifuchs> drgone: tehy're taking orders (:
+[15:08:10] <drgone> oh OK
+[15:08:21] <davr> expensive though
+[15:08:32] <davr> but if it really does as they claim, probably worth it
+[15:08:36] <drgone> i figure with clonedel, we can knock the price down hard
+[15:08:46] <antifuchs> it's what happens when you have people spend lots of time on a project that will maybe benefit a few thousand customers (:
+[15:08:48] <drgone> and actually knock production time down
+[15:09:31] <drgone> but that pissed off a lot of people
+[15:09:36] * drgone shrugs
+[15:09:48] <antifuchs> drgone: let the neckbeards fight (:
+[15:09:52] <drgone> indeed.
+[15:10:06] <davr> there are actually people complaining about clonedel making it too easy/cheap?
+[15:11:00] <antifuchs> I guess not having printed parts in there is a bad thing
+[15:11:37] <antifuchs> says you don't believe in the cause!
+[15:11:48] <antifuchs> counter-revolutionary! (:
+[15:12:00] <albillings> drgone: The ultimaker guys started taking orders this week
+[15:12:18] <albillings> I thought about starting a reprap kits company but then Ella told me that you were working on eating that lunch.
+[15:12:36] <drgone> i'm actually not going for the kit lunch
+[15:12:56] <albillings> Well, we did have people saying that we shouldn't buy clonedel molds because they were "too expensive" and we should just "make our own."
+[15:12:59] <albillings> which we then didn't do
+[15:13:08] <albillings> so I said "Fuck it" and bought the molds personally
+[15:13:10] <drgone> i'm going for the electronics and parts
+[15:13:22] <drgone> because the parts thing is stupid
+[15:13:26] <drgone> and electronics are always out of stock
+[15:13:28] <albillings> Well, cliff, who is often here, has prototypes of his new boards coming in a few weeks
+[15:13:41] <albillings> merges RAMPS and Arduino stuff (plus other, I think) with RAM onto one board
+[15:13:43] <drgone> nice. are they actually different than the regular boards?
+[15:13:52] <drgone> cool.
+[15:13:55] <albillings> if you e-mail me, I'll hook you up
+[15:14:03] <albillings> he's often here or I'd say talk to him here. :-)
+[15:14:06] <drgone> we are changing some things as well.
+[15:14:13] <albillings> I've seen sketches of the designs but I'm not an EE
+[15:14:18] <albillings> so it was like "ooookaaaaay"
+[15:14:29] <drgone> because our goal is not to have the pimpest robot
+[15:14:31] <drgone> just a functional one.
+[15:14:38] <drgone> and 'always be in stock'
+[15:14:46] <antifuchs> hahaha
+[15:14:50] <antifuchs> coffee is for stockers only!
+[15:14:56] <drgone> srsly
+[15:15:02] <albillings> I'm just pissed that I paid shipping five times
+[15:15:11] <albillings> including one thing going through customs
+[15:15:15] <drgone> the molds you got were super cheap
+[15:15:16] <drgone> btw
+[15:15:26] <albillings> I know
+[15:15:35] <albillings> I priced out others making them
+[15:15:36] <drgone> i came up with that price before i realized how much of a pain in the ass it would be
+[15:15:53] <drgone> but i gave myself a month for an out
+[15:15:54] <albillings> I have theoretical access to a 3d printer of commercial quality here but the operator is a complete flake
+[15:15:57] <albillings> yeah
+[15:16:06] <albillings> that's why I ordered two days before the end of the month
+[15:16:10] <drgone> i also knew a bunch of people that should bite wouldnt
+[15:16:31] <drgone> yeah. commercial printing is pricey
+[15:16:49] <drgone> metrix has ridiculously low prices because we are bringing people who have never done any of this to the table.
+[15:17:13] <drgone> we charge less for laser than ponoko. and we do it until midnight.
+[15:17:21] <albillings> I had free access to one but see flake factor
+[15:17:44] <drgone> yeah. 
+[15:17:53] <drgone> this is why i hire people at metrix
+[15:18:13] <drgone> avoids broken laser, keeps doors open regular hours.
+[15:18:55] <drgone> no drama hackerspace, community is oblivious to actual space issues.
+[15:19:23] <drgone> which means that people can be casual members
+[15:20:34] <albillings_> drgone: if you replied, the shitty net here just ate it
+[15:20:50] <albillings_> I'm surrounded by 380+ coworkers who just borked the net
+[15:21:07] <drgone> hahaha
+[15:21:37] <albillings_> I keep getting booted off
+[15:21:41] albillings_ is now known as albillings
+[15:21:58] <drgone> i was just talkin with my talkin hole
+[15:21:58] <albillings> anyway, Myles is around and offered to pick things up if necessary
+[15:22:11] <albillings> You may know hm
+[15:22:13] <albillings> him
+[15:22:15] <drgone> yeah
+[15:22:35] <drgone> for a while now
+[15:22:37] <albillings> I gotta go so just let me know
+[15:22:42] <drgone> cheers al
+[15:22:48] <albillings> (I only moved out of Seattle 4.5 years ago myself)
+[15:22:53] <drgone> oh ok
+[15:22:59] <drgone> did i meet you here then?
+[15:23:02] <albillings> I don't know
+[15:23:05] <drgone> for some reason i thought bawug
+[15:23:22] <albillings> If you're poly or pagan, you might have. I worked at MS for nine years 
+[15:23:27] <drgone> hm
+[15:23:41] <drgone> i used to hang @vogue,merc etc.
+[15:23:43] <albillings> probably two degrees of separation at best
+[15:23:44] <albillings> yeah
+[15:23:45] <albillings> me too
+[15:23:46] <albillings> :-)
+[15:23:48] <drgone> ok
+[15:23:52] <albillings> catbox
+[15:23:55] <drgone> right
+[15:23:59] <albillings> ok
+[15:24:00] <drgone> i had privs there.
+[15:24:00] <albillings> running
+[15:24:03] <drgone> cheer
+[15:24:04] <albillings> l8tr
+[16:03:04] <leks> postulate: my quality of life is inverseley proportional to the number of times I read "webinar" in a day
+[16:03:28] <leks> wait, postulate isn't the word i want there.
+[16:04:03] <leks> premise, i guess.
+[16:04:32] <antifuchs> hypothesis.
+[16:04:40] <antifuchs> test by subjecting leks to the word "webinar" repeatedly
+[16:04:46] <leks> i guess
+[16:04:53] <antifuchs> record perceived happiness at end of day
+[16:04:58] <antifuchs> repeat 100 times.
+[16:05:02] <leks> do not want.
+[16:05:23] <leks> hypothesis will have to remain Presumed True
+[16:07:04] <antifuchs> boo, unscientific!
+[16:07:31] <leks> sometimes the human toll is too great to move forward with the scientific method
+[16:07:51] <antifuchs> ethics, schmethics
+[16:11:27] <davr> leks: how about blogosphere
+[16:14:45] <leks> i can live with that one
+[16:14:55] <antifuchs> webinarosphere?
+[16:15:09] <leks> eugh.
+[16:15:21] <leks> nuke it from orbit.
+[16:15:24] <antifuchs> whee
+[16:15:58] <antifuchs> I do agree though, that word is a bit shit.
+[16:18:25] <antifuchs> also, wow, 1mm mk6 nozzle.
+[16:18:31] <antifuchs> and .4mm (:
+[16:18:53] <antifuchs> oh to get 0.2mm again. good times.
+[17:06:09] albillings_ is now known as albillings
+[17:16:15] <albillings> drgone: Hey, when you have a chance, I'd love to hear (or read or voice talk, whatever) about your plans around powder printing.
+[17:32:31] <albillings> davr: robbiet480: is the new member form on the wiki somewhere?
+[17:32:48] <albillings> Can we link http://wiki.acemonstertoys.org/Becoming_a_Member to it?
+[17:32:48] <ToyBot> [Link Info] title: Becoming a Member - Ace Monster Toys Wiki
+[20:47:36] <davr> ToyBot: note albillings robbiet480 did about 90% of it...just waiting for the last couple things (the "don't be a dick" section, and a place to physically sign it)
+[20:47:37] <ToyBot> lemme take care of that for you, davr
+[21:47:20] DrShiny_ is now known as DrShiny
+[21:51:44] DrShiny_ is now known as DrShiny
+[22:15:53] DrShiny_ is now known as DrShiny
+[07:08:12] [disconnected at Thu Apr  7 07:08:12 2011]
+[15:10:45] [connected at Wed Apr 13 15:10:45 2011]
+[15:11:03] [I have joined #acemonstertoys]
+[15:11:13] <SeanIAm> sean smells
+[15:24:40] <davr> LOLShieldBot: print POOP
+[15:24:40] <LOLShieldBot> davr: that's scrolling now. I hope it wasn't naughty :)
+[15:26:17] <ChrisCook> davr: what's going on in your workshop tonight? building, programming, whatevering?
+[15:27:17] <davr> whatever people want basically...I don't think I have enough people interested in the same thing, with the same hardware, learning at the same speed, such that I can stand up and lecture as people follow along
+[15:27:44] <ChrisCook> much turnout?
+[15:27:56] <davr> I can help with building, setting up, programming, etc. I have some kits if you want to put one together, or if you already have an arduino i have random parts I can show you how to use with it
+[15:28:15] <davr> i've only had 2 so far, it was like 8 people the first time and 5 people the second i think?
+[15:28:21] <davr> decent I guess
+[15:33:52] <robbiet480> albillings: davr its like 75 bucks for the day
+[15:34:02] <albillings> ah
+[15:34:27] <davr> robbiet480: i paid $100 to jump out of a plane, but that's only once
+[16:03:08] <SeanIAm> sean smells
+[16:44:52] <robbiet480> http://www.reddit.com/r/oakland/comments/gngbw/just_over_the_border_at_adeline_and_63rd_these/
+[16:44:55] <ToyBot> [Link Info] title: Just over the border at Adeline and 63rd, these guys are starting a record store that's more than a record store: in store artists, custom skate decks, comics, a sunny patio with coffee, and possibly live performances in the future. : oakland
+[16:45:14] <davr> isn't that like two blocks from us
+[16:45:29] <davr> also let me know if you post us to reddit so i can upboat it
+[16:47:33] <robbiet480> yes
+[16:47:35] <robbiet480> i just did
+[16:47:37] <robbiet480> http://www.reddit.com/r/bayarea/comments/gph4z/ace_monster_toys_a_hackerspace_in_oakland/
+[16:47:41] <ToyBot> [Link Info] title: Ace Monster Toys, a hackerspace in Oakland! : bayarea
+[16:49:03] <robbiet480> also will post to r/oakland
+[16:50:40] <wooster> do you guys ever go to al lasher's?
+[16:50:45] <wooster> does that even still exist
+[16:51:03] <robbiet480> no idea
+[16:51:55] <wooster> where should i get electronic parts
+[16:51:58] <wooster> i need a midi jack
+[16:52:20] <davr> i went there once
+[16:52:50] <davr> basically if you need something TODAY and you don't want to get raped quite as hard as radio shack
+[16:52:55] <davr> otherwise online is the way to go
+[16:53:53] <wooster> where's good online?
+[16:54:34] <davr> digikey.com for most stuff, but some things they have are overpriced and mouser.com or newark.com is cheaper
+[16:54:52] <wooster> thanks
+[16:54:54] <davr> occasionally i'll search for the part on ebay, if you don't mind waiting two or three weeks you can get them super cheap from china
+[16:55:18] <davr> oh also there's jameco.com which is in south sf so ships pretty quick
+[16:55:51] <davr> then there's the "surplus" type stores that don't have good selection, but sometimes can be super cheap. allelectronics.com and goldmine-elec.com
+[16:57:57] <robbiet480> x-post
+[16:57:57] <robbiet480> http://www.reddit.com/r/oakland/comments/gphe1/ace_monster_toys_a_hackerspace_in_oakland_xpost/
+[16:57:58] <ToyBot> [Link Info] title: Ace Monster Toys, a hackerspace in Oakland! (x-post from /r/bayarea/) : oakland
+[17:02:33] <robbiet480> hey
+[17:02:35] <robbiet480> guise
+[17:02:38] <robbiet480> go check out my new project
+[17:02:41] <robbiet480> firstworldproblems.me
+[17:02:42] <wooster> what do i need to do to run my noobie without plugging it into usb? do i just put 3v into some pins?
+[17:02:57] <wooster> ha
+[17:03:13] <robbiet480> please retweet
+[17:03:16] <robbiet480> send to as many people as possible
+[17:28:13] <robbiet480> upvote: http://www.reddit.com/r/firstworldproblems/comments/gphzi/hi_rfirstworldproblems_i_made_this_for_you/
+[17:28:14] <ToyBot> [Link Info] title: Hi /r/firstworldproblems. I made this for you. : firstworldproblems
+[17:33:52] <wooster> i have a 0.5watt phase lock loop FM transmitter i'd be happy to leave at the space, if anyone is interested in playing with it
+[17:33:56] <wooster> it needs a new amp
+[17:33:59] <wooster> not sure about the filter
+[17:34:18] <davr> wooster: for like $1-3 you can get a "USB charger", one end plugs into the wall, the other end has a usb socket, just provides 5V power
+[17:34:38] <wooster> so i need to power it over usb?
+[17:36:45] <davr> that's the easiest way, but if you have some other regulated 5V or 3.3V source, you can connect it directly to the 5V or 3.3V pins (along with Ground)
+[17:37:29] <wooster> like, two AA batteries?
+[17:40:10] <davr> That should work, AVR is pretty tolerant about voltage range
+[17:40:17] <davr> but if you have any other IC's they might be more strict
+[17:40:55] <davr> 2 AAs will range from 3.2V down to about 2.6V or less as they run down
+[17:43:02] <wooster> ok
+[20:32:29] <davr> robbiet480: when are you gonna make your twitter terminal
+[20:32:34] <robbiet480> idunno
+[20:32:34] <robbiet480> why
+[20:32:35] <davr> you should come to arduino night and work on it
+[20:32:42] <robbiet480> not tonight
+[20:32:52] <davr> next time
+[21:39:33] [disconnected at Wed Apr 13 21:39:33 2011]
